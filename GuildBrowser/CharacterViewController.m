@@ -67,7 +67,7 @@
 {
     [super viewDidLoad];    
    
-    self.collectionView.backgroundView = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"bg"]];
+//    self.collectionView.backgroundView = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"bg"]];
     
     NSArray *allClasses = @[
         WowClassTypeDeathKnight,
